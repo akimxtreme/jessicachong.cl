@@ -1,2 +1,2 @@
-# jessicachong.cl
-Sitio Web - Jessica Chong Designs
+# jessica-chong
+Portal Web de Jessica Chong
